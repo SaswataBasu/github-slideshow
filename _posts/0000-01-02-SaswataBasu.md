@@ -1,6 +1,7 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: somsms
+title:smsldmdms!"
 ---
-Your text
-Use the left arrow to go back!
+dksdsmdosmd
+sdllsdlsm
+sknkdnsd
